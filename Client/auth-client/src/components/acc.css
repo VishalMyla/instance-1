@@ -1,0 +1,45 @@
+.devtha{
+  flex-direction: column;
+  
+}
+.devtha2{
+  flex-direction: row;
+  justify-content:space-between;
+
+
+  height: 80vh;
+  padding-top: 90px;
+  padding-bottom: 60px;
+  background-color: #213555;
+}
+.devika3 h2{
+  font-weight: 400;
+}
+.devika3  p{
+  font-size: 2.3 rem;
+}
+.devika3{
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start ;
+    padding-right: 30px;
+}
+.reva3{
+
+  height: 70vh;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #4F709C;
+}
+.reva3 h1{
+    font-weight: 600;
+    font-size: 4rem;
+    margin-bottom: 20px;
+}
+.reva3  p{
+  font-size: 1.3rem;
+}
