@@ -16,11 +16,11 @@ const Pitch01 = () => {
     
       <div className='reva3' style={{ textAlign: 'center' }}>
             <Typography variant='h1' className='edda' style={{ color: 'black', }}>
-              Connect with your friends
+            Intuitive Interface
             </Typography>
         
             <p className='edda2' style={{ color: 'black', marginBottom: '10px' }}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Navigate our user-friendly platform effortlessly for a hassle-free video call experience.
             </p>
       </div>
     
@@ -48,11 +48,11 @@ const Pitch01 = () => {
                     ></img>
                 </div>
                 <div className="devika3" >
-                    <Typography variant="h2" style={{ color: 'black' }}>
-                    Connect with your friends
+                    <Typography variant="h2" style={{ color: 'black', fontWeight: '600' }}>
+                    Secure and Private
                   </Typography>
-                  <p  style={{ color: 'black' }}>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  <p  style={{ color: 'black', fontWeight: '400' }}>
+                  Rest easy knowing your conversations are encrypted and your privacy is our top priority.
                   </p>
 
                 </div>
@@ -67,12 +67,14 @@ const Pitch01 = () => {
         height: '55vh',
       }}>
 
-          <div className="devika3" >
-          <Typography variant="h2" style={{ color: 'black' }}>
-          Connect with your friends
+          <div className="devika3" style={{
+            paddingLeft: '30px'
+          }} >
+          <Typography variant="h2" style={{ color: 'black' , fontWeight: '600' }}>
+          Effortless Scheduling
         </Typography>
-        <p  style={{ color: 'black' }}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        <p  style={{ color: 'black' , fontWeight: '400'}}>
+        Schedule and manage video calls with ease, ensuring everyone connects at the right time.
         </p>
 
       </div>

@@ -26,11 +26,15 @@ function Account() {
     alignItems: 'center',
     color: 'white'
   }}>
-    <Typography className='revat'  variant="h2">
-      Connect with your friends
+    <Typography className='revat'  variant="h2" style={{
+      fontWeight: '600'
+    }}>
+    Crystal Clear Quality
     </Typography>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    <p   style={{
+      fontWeight: '300'
+    }}>
+        Experience high-definition video and audio for seamless and engaging video calls.
     </p>
     <Button 
       variant="contained" 

@@ -14,7 +14,7 @@ function Navbar() {
     }
 
   return (
-   
+   <div>
     <div  style={{
         display: "flex",
         justifyContent: "space-between",
@@ -91,7 +91,7 @@ function Navbar() {
         )}
     </div>
     
-
+    </div>
   );
 }
 

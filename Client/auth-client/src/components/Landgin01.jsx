@@ -27,16 +27,16 @@ return (
   }}>
 
   <div >
-          <Typography className='edda' variant="h2" style={{ color: 'white' }}>
+          <Typography className='edda' variant="h2" style={{ color: 'white', fontWeight: '900' }}>
           Connect Anytime, Anywhere.Stay Connected in Real Time.
         </Typography>
-        <Typography variant="h4" style={{ color: 'white', marginTop: '30px', right:' 0' }}>
+        <Typography variant="h4" style={{ color: 'white', marginTop: '30px', right:' 0' , fontWeight: '600'}}>
         Stay Connected in Real Time
       </Typography>
               
     </div>
     <div>
-          <p className='edda2' style={{ color: 'white', marginBottom: '10px' }}>
+          <p className='edda2' style={{ color: 'white', marginBottom: '10px' , fontWeight: '300'}}>
           
           Experience video calls like never before with our high-definition video quality. Say goodbye to pixelated images and hello to crystal clear video chats.
           Your privacy and security are our top priorities. 

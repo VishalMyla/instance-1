@@ -34,7 +34,10 @@ const Patch02 = () => {
             color: 'black',
             textAlign: 'center'
           }}>
-            <Typography variant="h2">
+            <Typography variant="h2" style={{
+              fontWeight: '600',
+              marginBottom: '30px'
+            }}>
             Stay Connected in Real Time
             </Typography>
             <p>
